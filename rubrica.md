@@ -1,0 +1,10 @@
+# Rúbrica d'Avaluació: App de Motos
+
+| Criteri | EXPERT | AVANÇAT | NOVELL |
+| :--- | :--- | :--- | :--- |
+| **Pantalla d'inici** (20 pts) | **20 pts:** Funciona el selector de motos, i s'actualitza el text cada vegada que es selecciona una moto. | **13 pts:** No s'actualitza el text en actualitzar la moto seleccionada, però puc seleccionar motos. | **0 pts:** No funciona el selector de motos. |
+| **Anar a la segona pantalla** (20 pts) | **20 pts:** El botó de canviar de pantalla et porta a l'altra pantalla, i es mostren tots els components que es demanen. La primera vegada que es selecciona una moto, o quan es selecciona una altra moto, els camps de text de kilómetres estan buits. | **13 pts:** Es canvia de pàgina, però falta part de l'informació de la moto seleccionada. | **0 pts:** No canvia de pàgina. |
+| **Càlcul de kilòmetres** (20 pts) | **20 pts:** Es recalcula automàticament el número de kilòmetres d'autonomia cada vegada que s'actualitza algun valor als camps de text. | **13 pts:** L'actualització dels kilòmetres d'autonomia es fa quan es prem un botó. | **0 pts:** No funciona bé, o no es fa bé el càlcul. |
+| **Tornar a la primera pantalla** (20 pts) | **20 pts:** Existeix una opció per tornar, i es manté la moto que havia seleccionada quan es va sortir de la pantalla, en el desplegable i en el text. | **13 pts:** La moto no està bé a algun dels dos widgets de la primera pàgina quan es torna de la segona, o l'aplicació deixa de funcionar en fer aquesta acció algunes vegades. | **0 pts:** No es manté la moto seleccionada al tornar. |
+| **Codi Super pro** (15 pts) | **15 pts:** No apareix cap línia de codi que no s'hagi vist a classe. I en cas d'aparèixer s'explica de manera natural. | **10 pts:** No aplica descripció específica. | **0 pts:** Apareix codi difícil d'entendre per a un nivell iniciat i no està justificat. |
+| **Entrega** (5 pts) | **5 pts:** Tot el codi està al repositori i funciona. S'ha entregat un vídeo que demostra tots i cadascun dels punts de la rúbrica, i un zip del repositori al Classroom. | **3 pts:** No aplica descripció específica. | **0 pts:** Falta alguna cosa de l'entrega. |
